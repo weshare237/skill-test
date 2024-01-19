@@ -1,11 +1,5 @@
-import { Button } from 'antd';
-
 function WalletActivity() {
-  return (
-    <div className="">
-    
-    </div>
-  );
+  return <div className=''></div>
 }
 
-export default WalletActivity;
+export default WalletActivity
